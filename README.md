@@ -19,3 +19,5 @@ no filesystem changes are implemented in this initial project skeleton.
 ## development status
 
 milestone 1: initial project structure.
+milestone 2: folder scanner.
+milestone 3: BREAK THE RULES ;)
