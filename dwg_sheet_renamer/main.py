@@ -1,11 +1,10 @@
-"""Application entry point for DWG Sheet Renamer."""
+"""application entry point for dwg sheet renamer."""
 
 
 def main() -> None:
-    """Run the desktop application."""
-    raise SystemExit("DWG Sheet Renamer UI is not implemented yet.")
+    """run the desktop application."""
+    raise SystemExit("dwg sheet renamer ui is not implemented yet.")
 
 
 if __name__ == "__main__":
     main()
-

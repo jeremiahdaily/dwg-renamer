@@ -1,2 +1,1 @@
-"""DWG Sheet Renamer package."""
-
+"""dwg sheet renamer package."""

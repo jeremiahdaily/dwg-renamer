@@ -1,8 +1,8 @@
-# DWG Sheet Renamer Project Guide
+# dwg sheet renamer project guide
 
-Build this project in small, practical revisions.
+build this project in small, practical revisions.
 
-Priorities:
+priorities:
 
 1. safety
 2. accuracy
@@ -10,18 +10,17 @@ Priorities:
 4. simplicity
 5. speed
 
-Version 1 must remain read-only. It must not rename, move, delete, overwrite, or otherwise modify DWG files.
+version 1 must remain read-only. it must not rename, move, delete, overwrite, or otherwise modify dwg files.
 
-## Milestones
+## milestones
 
-1. Project skeleton
-2. Folder scanner
-3. Ignore rules
-4. Filename parser
-5. Conversion logic
-6. Preview rows
-7. Basic UI
-8. Prototype cleanup
+1. project skeleton
+2. folder scanner
+3. ignore rules
+4. filename parser
+5. conversion logic
+6. preview rows
+7. basic ui
+8. prototype cleanup
 
-Each milestone should stay focused on its stated purpose.
-
+each milestone should stay focused on its stated purpose.

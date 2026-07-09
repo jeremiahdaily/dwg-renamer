@@ -1,2 +1,1 @@
-"""Desktop interface for DWG Sheet Renamer."""
-
+"""desktop interface for dwg sheet renamer."""

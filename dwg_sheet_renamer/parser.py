@@ -1,2 +1,1 @@
-"""Filename parsing for DWG Sheet Renamer."""
-
+"""filename parsing for dwg sheet renamer."""

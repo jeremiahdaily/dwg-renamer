@@ -1,10 +1,10 @@
-"""Folder scanning for DWG Sheet Renamer."""
+"""folder scanning for dwg sheet renamer."""
 
 from pathlib import Path
 
 
 def scan_folder(folder_path: str | Path) -> list[Path]:
-    """Return DWG files from one folder without scanning subfolders."""
+    """return dwg files from one folder without scanning subfolders."""
     selected_folder = Path(folder_path)
 
     if not selected_folder.is_dir():

@@ -1,1 +1,1 @@
-"""Tests for DWG Sheet Renamer."""
+"""tests for dwg sheet renamer."""

@@ -1,2 +1,1 @@
-"""Sheet naming conversion for DWG Sheet Renamer."""
-
+"""sheet naming conversion for dwg sheet renamer."""
